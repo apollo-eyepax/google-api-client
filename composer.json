@@ -13,8 +13,8 @@
         
     },
     "autoload": {
-        "psr-0": {
-            "Google_": "src/"
+        "psr-4": {
+            "Apollo\\Google\\": "src/"
         },
         "classmap": [
             "src/Google/Service/"
