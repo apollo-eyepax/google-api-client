@@ -1,5 +1,5 @@
 {
-    "name": "apollo-eyepax/google-api-client",
+    "name": "apollo-eyepax/google-apis-client",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
