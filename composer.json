@@ -13,11 +13,9 @@
         
     },
     "autoload": {
-        "psr-4": {
-            "Apollo\\Google\\": "src/"
-        },
+        "files": ["src/Google/autoload.php"],
         "classmap": [
-            "src/Google/Service/"
+            "src/Google/"
         ]
     },
     "extra": {
