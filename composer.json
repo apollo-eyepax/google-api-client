@@ -1,17 +1,11 @@
 {
-    "name": "apollo-eyepax/google-apis-client",
+    "name": "apollo-eyepax/google-api-client",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
     "homepage": "http://developers.google.com/api-client-library/php",
-    "license": "Apache-2.0",
     "minimum-stability": "dev",
-    "require": {
-        
-    },
-    "require-dev": {
-        
-    },
+	"version": "v1.0.0",
     "autoload": {
         "psr-0": {
             "Google_": "src/"
