@@ -13,10 +13,7 @@
         
     },
     "autoload": {
-		"psr-0": {
-            "Google_": "src/"
-        },
-        "files": ["src/Google/autoload.php"],
+		"files": ["src/Google/autoload.php"],
         "classmap": [
             "src/Google/Client.php",
 			"src/Google/Service/AdExchangeSeller.php"
